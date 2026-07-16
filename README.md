@@ -72,8 +72,7 @@ Joblib – Model loading
 
 # ⚙️ Installation & Setup
 ## 1️⃣ Clone Repository
-git clone https://github.com/khushikumari-2003/Credit-Risk-Analysis-System
-
+https://github.com/oneman004/Credit-Risk-Analysis-System-main.git
 cd Credit-Risk-Analysis-System
 
 ## 2️⃣ Install Dependencies
@@ -125,6 +124,6 @@ After assessment, the system generates a downloadable credit report containing:
 - Deployment on cloud platforms
 
 ## 👩‍💻 Author
-Khushi Kumari 
+Aman Sharma
 
-B.tech CSE(Ai & Ml)
+B.tech ECE
